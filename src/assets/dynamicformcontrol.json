@@ -1,0 +1,31 @@
+[
+    {
+        "id":"firstname",
+        "Label":"firstname",
+        "type":"text",
+        "defaultvalue":"",
+        "readonly":"false",
+        "required":"true"
+    },{
+        "id":"secondname",
+        "Label":"secondtname",
+        "type":"text",
+        "defaultvalue":"",
+        "readonly":"false",
+        "required":"true"
+    },{
+        "id":"phoneno",
+        "Label":"phoneno",
+        "type":"number",
+        "defaultvalue":"",
+        "readonly":"false",
+        "required":"true"
+    },{
+        "id":"Email id",
+        "Label":"Email Id",
+        "type":"text",
+        "defaultvalue":"",
+        "readonly":"false",
+        "required":"true"
+    }
+]
